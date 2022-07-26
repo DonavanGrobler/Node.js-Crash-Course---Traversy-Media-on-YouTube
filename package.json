@@ -1,0 +1,17 @@
+{
+  "name": "node.js-crash-course---traversy-media-on-youtube",
+  "version": "1.0.0",
+  "description": "https://www.youtube.com/watch?v=fBNz5xF-Kx4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Donavan Grobler",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
